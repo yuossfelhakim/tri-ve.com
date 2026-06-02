@@ -1,0 +1,6 @@
+{
+  "name": "tríve",
+  "description": "tríve is a cinematic creative development & AI marketing agency landing page featuring full-screen video portals, bilingual English-Arabic layouts, interactive showcase modules, and responsive AI strategy engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
